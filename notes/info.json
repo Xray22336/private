@@ -1,0 +1,37 @@
+{
+	"version": 3,
+	"e2ee": {
+		"value": true,
+		"updatedTime": 1722216595042
+	},
+	"activeMasterKeyId": {
+		"value": "3bf0fa734bf041328876782eaa79c8fa",
+		"updatedTime": 1722216595040
+	},
+	"masterKeys": [
+		{
+			"checksum": "",
+			"encryption_method": 4,
+			"content": "{\"iv\":\"cDeKKQ2iQVSb9QHW2GzUDg==\",\"v\":1,\"iter\":10000,\"ks\":256,\"ts\":64,\"mode\":\"ccm\",\"adata\":\"\",\"cipher\":\"aes\",\"salt\":\"i14SjnMPSMw=\",\"ct\":\"YzAykGoD4qoplDBDSdzBQIdyC/jS1+hTnAb3xIunXhYeaphjQFTPqe5PRFJSoSCV9n7l/uspp22ZdVNyAOYTpxvRTOuLFmEss+JnWAoCQRnb9Bq13Dko7rIfy2Hw8reVcZu2QZoJ1W9UJwmLw566CC1gd9ZQ16epeazOR3P32Na8OGBLO5r42IDqVaM6vHMfqAdBn7EcvZIoBSDrF3A8L+qnFfoJcPFij/I92UznmdyHSTzJYn1MXeDO7F78DvsWNFqjTrxTR0DV9dNIgQMs84gXimDuuQdqHnlOTosd8fI+ZPajoZBJE6D7bl+sIrd4IVN72Qk4E4FLSGzpD7bC84e8pEMzI//6e4rLr/QG1d10F+kvBLWYdMvuoNbL5UnehPDw/qCSYyq/bST4CxMfAjSEiCFRn8PZzL5m9ptYvK0jR4E0gdAePg5mc3upJIRIChIlUpK+8weqZoN0f4HEQuUSb71yrhyaqKOtf46+gRDk1W7uHxRwHS3lHGYRrOwzhqLGFJHyXIzUphcs/YqGz0UsRSAAd/bKpytGAI3Hfb0OXiwOvF+CbQRN4IWreLL4TPJun/AKIDGFWf/1Jc0brOsNa/N5fciadY6TwSlKcKrUMfAYeOKSNqyP6bskwACSMMk0DnclI+W2846tAfpXar1SR4125ctMKQCqWYH2flYyX8CZr/k6KQ==\"}",
+			"created_time": 1722216595015,
+			"updated_time": 1722216613572,
+			"source_application": "net.cozic.joplin-desktop",
+			"hasBeenUsed": true,
+			"id": "3bf0fa734bf041328876782eaa79c8fa"
+		}
+	],
+	"ppk": {
+		"value": {
+			"id": "uw2P2QmwvlfJJw5UkVCxtM",
+			"keySize": 2048,
+			"privateKey": {
+				"encryptionMethod": 4,
+				"ciphertext": "{\"iv\":\"cfToYO1FmIGr1iklrw0GYA==\",\"v\":1,\"iter\":10000,\"ks\":256,\"ts\":64,\"mode\":\"ccm\",\"adata\":\"\",\"cipher\":\"aes\",\"salt\":\"i14SjnMPSMw=\",\"ct\":\"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\"}"
+			},
+			"publicKey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAiUub+deuWaTT/gsrpy4mtwBe9yrGXrf/xYOnrwp3APQUCjm72rJf\n35iV6eDsLDfGReqJxwzkpvxQo1mJ8JPYGg0DLb1FGssqqjDiAKE7EkCrgD58LHve\nwEV/sFUFc4a7qoRXEGXRzXcnHRpXdS4bpcb/Ozj4uTi+vREQEQ/mGbCOAlXCvEQ7\nj3oUcE9xew725AIs0Zm7ISzApCXGv9wO//YOmj8O/oJk0Enub+rCjUfBApB5MpOo\n8iLG6pU7N9Gd+sudxXqJgpcw6xjWGWs/1/Wa8cNWRr7UPpSfwtVJ+636BMD0aV01\noaE+m0H6hCEB3fHAelWx4aE3Dwzw6TPr/QIDAQAB\n-----END RSA PUBLIC KEY-----",
+			"createdTime": 1722216613571
+		},
+		"updatedTime": 1722216613572
+	},
+	"appMinVersion": "3.0.0"
+}
